@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/CMakeFiles/date"
+		},
+		
+		{
+			"file" : "/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/CMakeFiles/date.rule"
+		},
+		
+		{
+			"file" : "/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/CMakeFiles/date-complete.rule"
+		},
+		
+		{
+			"file" : "/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/date/src/date-stamp/date-install.rule"
+		},
+		
+		{
+			"file" : "/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/date/src/date-stamp/date-mkdir.rule"
+		},
+		
+		{
+			"file" : "/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/date/src/date-stamp/date-download.rule"
+		},
+		
+		{
+			"file" : "/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/date/src/date-stamp/date-update.rule"
+		},
+		
+		{
+			"file" : "/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/date/src/date-stamp/date-patch.rule"
+		},
+		
+		{
+			"file" : "/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/date/src/date-stamp/date-configure.rule"
+		},
+		
+		{
+			"file" : "/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/date/src/date-stamp/date-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "date" ],
+		"name" : "date"
+	}
+}

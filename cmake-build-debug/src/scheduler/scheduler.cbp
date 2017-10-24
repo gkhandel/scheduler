@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="scheduler"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\src\;CMake Files\src\scheduler\;CMake Files\test\;CMake Files\test\scheduler\;CMake Files\config\;CMake Files\cmake-build-debug\;CMake Files\cmake-build-debug\date\;CMake Files\cmake-build-debug\date\tmp\;CMake Files\cmake-build-debug\test\;CMake Files\cmake-build-debug\test\gtest\;CMake Files\cmake-build-debug\test\gtest\tmp\;CMake Files\proto\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/src/scheduler"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/src/scheduler/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/src/scheduler/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/src/scheduler/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/src/scheduler/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="scheduler">
+				<Option output="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/bin/scheduler" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/include"/>
+					<Add directory="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/date/src/date"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/src/scheduler/Makefile&quot;  VERBOSE=1 scheduler"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/src/scheduler/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/src/scheduler/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/src/scheduler/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="scheduler/fast">
+				<Option output="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/bin/scheduler" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/include"/>
+					<Add directory="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/date/src/date"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/src/scheduler/Makefile&quot;  VERBOSE=1 scheduler/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/src/scheduler/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/src/scheduler/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/src/scheduler/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="scheduler_lib">
+				<Option output="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/lib/libscheduler_lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/src/scheduler"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/include"/>
+					<Add directory="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/date/src/date"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/src/scheduler/Makefile&quot;  VERBOSE=1 scheduler_lib"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/src/scheduler/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/src/scheduler/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/src/scheduler/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="scheduler_lib/fast">
+				<Option output="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/lib/libscheduler_lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/src/scheduler"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/include"/>
+					<Add directory="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/date/src/date"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/src/scheduler/Makefile&quot;  VERBOSE=1 scheduler_lib/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/src/scheduler/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/src/scheduler/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/src/scheduler/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/scheduler/algorithms/optimization/cutoff/cutoff.cpp">
+			<Option target="scheduler_lib"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/scheduler/algorithms/optimization/cutoff/max_iterations.cpp">
+			<Option target="scheduler_lib"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/scheduler/algorithms/optimization/state/branching/change_alternative.cpp">
+			<Option target="scheduler_lib"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/scheduler/algorithms/optimization/state/branching/combined_strategy.cpp">
+			<Option target="scheduler_lib"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/scheduler/algorithms/optimization/state/branching/pairwise_interchange.cpp">
+			<Option target="scheduler_lib"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/scheduler/algorithms/optimization/state/branching/strategy.cpp">
+			<Option target="scheduler_lib"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/scheduler/algorithms/optimization/state/initial_state.cpp">
+			<Option target="scheduler_lib"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/scheduler/algorithms/optimization/state/io/js_exporter.cpp">
+			<Option target="scheduler_lib"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/scheduler/algorithms/optimization/state/io/proto_mutator.cpp">
+			<Option target="scheduler_lib"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/scheduler/algorithms/optimization/state/metrics/makespan.cpp">
+			<Option target="scheduler_lib"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/scheduler/algorithms/optimization/state/metrics/metric.cpp">
+			<Option target="scheduler_lib"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/scheduler/algorithms/optimization/state/metrics/total_duration.cpp">
+			<Option target="scheduler_lib"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/scheduler/algorithms/optimization/state/move.cpp">
+			<Option target="scheduler_lib"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/scheduler/algorithms/optimization/state/state.cpp">
+			<Option target="scheduler_lib"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/scheduler/algorithms/optimization/state/state_observer.cpp">
+			<Option target="scheduler_lib"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/scheduler/algorithms/optimization/tabu_search.cpp">
+			<Option target="scheduler_lib"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/scheduler/entities/alternative.cpp">
+			<Option target="scheduler_lib"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/scheduler/entities/entity.cpp">
+			<Option target="scheduler_lib"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/scheduler/entities/job.cpp">
+			<Option target="scheduler_lib"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/scheduler/entities/operation.cpp">
+			<Option target="scheduler_lib"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/scheduler/entities/shop.cpp">
+			<Option target="scheduler_lib"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/scheduler/entities/tool_library.cpp">
+			<Option target="scheduler_lib"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/scheduler/io/file_reader.cpp">
+			<Option target="scheduler_lib"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/scheduler/main.cpp">
+			<Option target="scheduler"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/scheduler/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\scheduler\"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/src/scheduler/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\scheduler\"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/test/scheduler/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\scheduler\"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/test/scheduler/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\scheduler\"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/config/date.cmake">
+			<Option virtualFolder="CMake Files\config\"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/config/gtest.cmake">
+			<Option virtualFolder="CMake Files\config\"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/date/tmp/date-cfgcmd.txt.in">
+			<Option virtualFolder="CMake Files\cmake-build-debug\date\tmp\"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/tmp/googletest-cfgcmd.txt.in">
+			<Option virtualFolder="CMake Files\cmake-build-debug\test\gtest\tmp\"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/proto/protobuf.cmake">
+			<Option virtualFolder="CMake Files\proto\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

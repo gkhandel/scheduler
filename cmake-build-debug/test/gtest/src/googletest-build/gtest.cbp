@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="gtest"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main">
+				<Option output="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest/include"/>
+					<Add directory="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 gtest_main"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main/fast">
+				<Option output="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest/include"/>
+					<Add directory="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest">
+				<Option output="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest/include"/>
+					<Add directory="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 gtest"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest/fast">
+				<Option output="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest/include"/>
+					<Add directory="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 gtest/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest-build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest/src/gtest-all.cc">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest/src/gtest_main.cc">
+			<Option target="gtest_main"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug/test/gtest/src/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

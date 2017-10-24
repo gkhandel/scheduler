@@ -1,0 +1,1475 @@
+{
+ "jobs": [
+  {
+   "id": "M17-10450",
+   "partId": "PARC-00003",
+   "processSteps": [
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2801",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505305350",
+     "endTime": "1505308181",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1891",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505316095",
+     "endTime": "1505317986",
+     "status": "NOT_STARTED"
+    }
+   ],
+   "deadline": "1505509200"
+  },
+  {
+   "id": "M17-10449",
+   "partId": "PARC-00003",
+   "processSteps": [
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2801",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505308181",
+     "endTime": "1505310982",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1891",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505317986",
+     "endTime": "1505319877",
+     "status": "NOT_STARTED"
+    }
+   ],
+   "deadline": "1505509200"
+  },
+  {
+   "id": "M17-10448",
+   "partId": "PARC-00003",
+   "processSteps": [
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2801",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505310982",
+     "endTime": "1505313783",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1891",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505313783",
+     "endTime": "1505315704",
+     "status": "NOT_STARTED"
+    }
+   ],
+   "deadline": "1505509200"
+  },
+  {
+   "id": "M17-10414",
+   "partId": "PARC-00004",
+   "processSteps": [
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "1f04a442-1850-591e-b77b-81e678a21818",
+      "1f04a442-1850-591e-b77b-81e678a21818",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2869",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505337487",
+     "endTime": "1505340386",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "1f04a442-1850-591e-b77b-81e678a21818",
+      "1f04a442-1850-591e-b77b-81e678a21818",
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "c053b097-1eb9-5399-b79f-06c555377f69"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1894",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505343255",
+     "endTime": "1505345179",
+     "status": "NOT_STARTED"
+    }
+   ],
+   "deadline": "1505509200"
+  },
+  {
+   "id": "M17-10413",
+   "partId": "PARC-00003",
+   "processSteps": [
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2801",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505311343",
+     "endTime": "1505314174",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1891",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505314174",
+     "endTime": "1505316095",
+     "status": "NOT_STARTED"
+    }
+   ],
+   "deadline": "1505509200"
+  },
+  {
+   "id": "M17-10412",
+   "partId": "PARC-00002",
+   "processSteps": [
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2510",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505275289",
+     "endTime": "1505277829",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2391",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505277829",
+     "endTime": "1505280250",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc",
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1902",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505280250",
+     "endTime": "1505282182",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "43f09a21-56f0-5fd1-a2c8-645ad8d04496",
+      "43f09a21-56f0-5fd1-a2c8-645ad8d04496",
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "c053b097-1eb9-5399-b79f-06c555377f69"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1893",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505282182",
+     "endTime": "1505284105",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1913",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505284105",
+     "endTime": "1505286048",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1890",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505287961",
+     "endTime": "1505289881",
+     "status": "NOT_STARTED"
+    }
+   ],
+   "deadline": "1505509200"
+  },
+  {
+   "id": "M17-10411",
+   "partId": "PARC-00001",
+   "processSteps": [
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc",
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2080",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505288918",
+     "endTime": "1505291028",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2802",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505330770",
+     "endTime": "1505333602",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc",
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1892",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505333602",
+     "endTime": "1505335524",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1891",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505335524",
+     "endTime": "1505337445",
+     "status": "NOT_STARTED"
+    }
+   ],
+   "deadline": "1505509200"
+  },
+  {
+   "id": "M17-10410",
+   "partId": "PARC-00004",
+   "processSteps": [
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "1f04a442-1850-591e-b77b-81e678a21818",
+      "1f04a442-1850-591e-b77b-81e678a21818",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2869",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505340386",
+     "endTime": "1505343255",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "1f04a442-1850-591e-b77b-81e678a21818",
+      "1f04a442-1850-591e-b77b-81e678a21818",
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "c053b097-1eb9-5399-b79f-06c555377f69"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1894",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505345179",
+     "endTime": "1505347073",
+     "status": "NOT_STARTED"
+    }
+   ],
+   "deadline": "1505509200"
+  },
+  {
+   "id": "M17-10409",
+   "partId": "PARC-00003",
+   "processSteps": [
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2801",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505315704",
+     "endTime": "1505318535",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1891",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505319877",
+     "endTime": "1505321768",
+     "status": "NOT_STARTED"
+    }
+   ],
+   "deadline": "1505509200"
+  },
+  {
+   "id": "M17-10408",
+   "partId": "PARC-00002",
+   "processSteps": [
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2510",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505271099",
+     "endTime": "1505273639",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2391",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505273639",
+     "endTime": "1505276060",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc",
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1902",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505276060",
+     "endTime": "1505277992",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "43f09a21-56f0-5fd1-a2c8-645ad8d04496",
+      "43f09a21-56f0-5fd1-a2c8-645ad8d04496",
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "c053b097-1eb9-5399-b79f-06c555377f69"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1893",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505277992",
+     "endTime": "1505279915",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1913",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505286048",
+     "endTime": "1505287961",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1890",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505289881",
+     "endTime": "1505291771",
+     "status": "NOT_STARTED"
+    }
+   ],
+   "deadline": "1505509200"
+  },
+  {
+   "id": "M17-10407",
+   "partId": "PARC-00001",
+   "processSteps": [
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc",
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2080",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505273209",
+     "endTime": "1505275289",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2802",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505324137",
+     "endTime": "1505326969",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc",
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1892",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505326969",
+     "endTime": "1505328891",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1891",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505328891",
+     "endTime": "1505330812",
+     "status": "NOT_STARTED"
+    }
+   ],
+   "deadline": "1505509200"
+  },
+  {
+   "id": "M17-10406",
+   "partId": "PARC-00004",
+   "processSteps": [
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "1f04a442-1850-591e-b77b-81e678a21818",
+      "1f04a442-1850-591e-b77b-81e678a21818",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2869",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505347073",
+     "endTime": "1505349972",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "1f04a442-1850-591e-b77b-81e678a21818",
+      "1f04a442-1850-591e-b77b-81e678a21818",
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "c053b097-1eb9-5399-b79f-06c555377f69"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1894",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505350872",
+     "endTime": "1505352796",
+     "status": "NOT_STARTED"
+    }
+   ],
+   "deadline": "1505509200"
+  },
+  {
+   "id": "M17-10405",
+   "partId": "PARC-00003",
+   "processSteps": [
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2801",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505318535",
+     "endTime": "1505321336",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1891",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505322236",
+     "endTime": "1505324127",
+     "status": "NOT_STARTED"
+    }
+   ],
+   "deadline": "1505509200"
+  },
+  {
+   "id": "M17-10404",
+   "partId": "PARC-00002",
+   "processSteps": [
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2510",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505279915",
+     "endTime": "1505282455",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2391",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505284565",
+     "endTime": "1505286986",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc",
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1902",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505286986",
+     "endTime": "1505288918",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "43f09a21-56f0-5fd1-a2c8-645ad8d04496",
+      "43f09a21-56f0-5fd1-a2c8-645ad8d04496",
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "c053b097-1eb9-5399-b79f-06c555377f69"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1893",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505293108",
+     "endTime": "1505295031",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1913",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505295031",
+     "endTime": "1505296974",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1890",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505296974",
+     "endTime": "1505298894",
+     "status": "NOT_STARTED"
+    }
+   ],
+   "deadline": "1505509200"
+  },
+  {
+   "id": "M17-10403",
+   "partId": "PARC-00001",
+   "processSteps": [
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc",
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2080",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505291028",
+     "endTime": "1505293108",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2802",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505330812",
+     "endTime": "1505333644",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc",
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1892",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505333644",
+     "endTime": "1505335566",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1891",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505335566",
+     "endTime": "1505337487",
+     "status": "NOT_STARTED"
+    }
+   ],
+   "deadline": "1505509200"
+  },
+  {
+   "id": "M17-10402",
+   "partId": "PARC-00004",
+   "processSteps": [
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "1f04a442-1850-591e-b77b-81e678a21818",
+      "1f04a442-1850-591e-b77b-81e678a21818",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2869",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505349972",
+     "endTime": "1505352841",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "1f04a442-1850-591e-b77b-81e678a21818",
+      "1f04a442-1850-591e-b77b-81e678a21818",
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "c053b097-1eb9-5399-b79f-06c555377f69"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1894",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505353741",
+     "endTime": "1505355635",
+     "status": "NOT_STARTED"
+    }
+   ],
+   "deadline": "1505509200"
+  },
+  {
+   "id": "M17-10401",
+   "partId": "PARC-00003",
+   "processSteps": [
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2801",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505324127",
+     "endTime": "1505326958",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1891",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505326958",
+     "endTime": "1505328879",
+     "status": "NOT_STARTED"
+    }
+   ],
+   "deadline": "1505509200"
+  },
+  {
+   "id": "M17-10400",
+   "partId": "PARC-00002",
+   "processSteps": [
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2510",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505291771",
+     "endTime": "1505294311",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2391",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505294311",
+     "endTime": "1505296732",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc",
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1902",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505296732",
+     "endTime": "1505298664",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "43f09a21-56f0-5fd1-a2c8-645ad8d04496",
+      "43f09a21-56f0-5fd1-a2c8-645ad8d04496",
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "c053b097-1eb9-5399-b79f-06c555377f69"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1893",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505299564",
+     "endTime": "1505301487",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1913",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505301487",
+     "endTime": "1505303430",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1890",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505303430",
+     "endTime": "1505305350",
+     "status": "NOT_STARTED"
+    }
+   ],
+   "deadline": "1505509200"
+  },
+  {
+   "id": "M17-10399",
+   "partId": "PARC-00001",
+   "processSteps": [
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc",
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2080",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505282455",
+     "endTime": "1505284565",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2802",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505337445",
+     "endTime": "1505340277",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc",
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1892",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505340277",
+     "endTime": "1505342199",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1891",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505342199",
+     "endTime": "1505344120",
+     "status": "NOT_STARTED"
+    }
+   ],
+   "deadline": "1505509200"
+  },
+  {
+   "id": "M16-10379",
+   "partId": "PARC-00004",
+   "processSteps": [
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "1f04a442-1850-591e-b77b-81e678a21818",
+      "1f04a442-1850-591e-b77b-81e678a21818",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2869",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505352841",
+     "endTime": "1505355710",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "1f04a442-1850-591e-b77b-81e678a21818",
+      "1f04a442-1850-591e-b77b-81e678a21818",
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "c053b097-1eb9-5399-b79f-06c555377f69"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1894",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505355710",
+     "endTime": "1505357634",
+     "status": "NOT_STARTED"
+    }
+   ],
+   "deadline": "1505509200"
+  },
+  {
+   "id": "M16-10378",
+   "partId": "PARC-00003",
+   "processSteps": [
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2801",
+     "allocated": true,
+     "machineId": "itamco_Haas",
+     "startTime": "1505321336",
+     "endTime": "1505324137",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1891",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505328879",
+     "endTime": "1505330770",
+     "status": "NOT_STARTED"
+    }
+   ],
+   "deadline": "1505509200"
+  },
+  {
+   "id": "M16-10377",
+   "partId": "PARC-00002",
+   "processSteps": [
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2510",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505298664",
+     "endTime": "1505301204",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2391",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505301204",
+     "endTime": "1505303625",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc",
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1902",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505303625",
+     "endTime": "1505305557",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "43f09a21-56f0-5fd1-a2c8-645ad8d04496",
+      "43f09a21-56f0-5fd1-a2c8-645ad8d04496",
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "c053b097-1eb9-5399-b79f-06c555377f69"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1893",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505305557",
+     "endTime": "1505307480",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1913",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505307480",
+     "endTime": "1505309423",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1890",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505309423",
+     "endTime": "1505311343",
+     "status": "NOT_STARTED"
+    }
+   ],
+   "deadline": "1505509200"
+  },
+  {
+   "id": "M16-10376",
+   "partId": "PARC-00001",
+   "processSteps": [
+    {
+     "toolTypes": [
+      "c053b097-1eb9-5399-b79f-06c555377f69",
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc",
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2080",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505271099",
+     "endTime": "1505273209",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+      "32ffde78-7cce-5cfb-a42b-4efc1ffec988"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "2802",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505344120",
+     "endTime": "1505346952",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc",
+      "ae6ee158-9e95-54ff-8b58-e915877c73fc"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1892",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505346952",
+     "endTime": "1505348874",
+     "status": "NOT_STARTED"
+    },
+    {
+     "toolTypes": [
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+      "9da7b79b-884b-5f4f-9358-ac5d830da5aa"
+     ],
+     "requiredRpm": 1000,
+     "machineType": "MILL3D",
+     "setupDuration": "30",
+     "cycleDuration": "1891",
+     "allocated": true,
+     "machineId": "itamco_DMG",
+     "startTime": "1505348874",
+     "endTime": "1505350795",
+     "status": "NOT_STARTED"
+    }
+   ],
+   "deadline": "1505509200"
+  }
+ ],
+ "machines": [
+  {
+   "id": "itamco_Haas",
+   "currentMaxRpm": 1400,
+   "machineType": "MILL3D",
+   "remainingLife": "0",
+   "status": "ONLINE",
+   "maintenanceSchedules": []
+  },
+  {
+   "id": "itamco_DMG",
+   "currentMaxRpm": 4000,
+   "machineType": "MILL3D",
+   "remainingLife": "0",
+   "status": "ONLINE",
+   "maintenanceSchedules": []
+  }
+ ],
+ "tools": [
+  {
+   "type": "43f09a21-56f0-5fd1-a2c8-645ad8d04496",
+   "quantity": 4
+  },
+  {
+   "type": "1f04a442-1850-591e-b77b-81e678a21818",
+   "quantity": 4
+  },
+  {
+   "type": "32ffde78-7cce-5cfb-a42b-4efc1ffec988",
+   "quantity": 24
+  },
+  {
+   "type": "c053b097-1eb9-5399-b79f-06c555377f69",
+   "quantity": 16
+  },
+  {
+   "type": "9da7b79b-884b-5f4f-9358-ac5d830da5aa",
+   "quantity": 12
+  },
+  {
+   "type": "ae6ee158-9e95-54ff-8b58-e915877c73fc",
+   "quantity": 8
+  }
+ ],
+ "travelTimes": [
+  {
+   "fromMachine": "itamco_Haas",
+   "toMachine": "itamco_DMG",
+   "duration": "900"
+  },
+  {
+   "fromMachine": "itamco_DMG",
+   "toMachine": "itamco_Haas",
+   "duration": "900"
+  }
+ ],
+ "currentTimestamp": "1505267499",
+ "executionDelay": "3600",
+ "schedulingWindow": []
+}

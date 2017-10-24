@@ -1,0 +1,4 @@
+/usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/gkhandel/SPEC-OPS_scheduler/scheduler-cpp/cmake-build-debug

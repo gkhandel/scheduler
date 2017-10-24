@@ -1,0 +1,3 @@
+repository='external project URL'
+module='https://github.com/HowardHinnant/date/archive/2.1.0.zip'
+tag='SHA1=e40c98b324431fda563f0b4ab7ea8ce93e1e053c'

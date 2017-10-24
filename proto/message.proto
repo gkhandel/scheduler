@@ -1,0 +1,108 @@
+syntax = "proto3";
+
+package specops.proto;
+
+message SchedulerMessage {
+    //list of jobs
+    repeated Job jobs = 1;
+
+    //list of machines
+    repeated Machine machines = 2;
+
+    //list of tools
+    repeated Tool tools = 3;
+
+    //travel times
+    repeated TravelTime travel_times = 4;
+
+    int64 current_timestamp = 5;
+    int64 execution_delay = 6;
+
+    repeated SchedulingWindow scheduling_window = 7;
+}
+
+message Job {
+    string id = 1;
+    string part_id = 2;
+    repeated ProcessStep process_steps = 3;
+    int64 deadline = 4;
+}
+
+message ProcessStep {
+    repeated string tool_types = 1;
+
+    //machine capabilities
+    int32 required_rpm = 2;
+    MachineType machine_type = 3;
+
+    int64 setup_duration = 4;
+    int64 cycle_duration = 5;
+
+    //once allocated
+    bool allocated = 6;
+    string machine_id = 7;
+    int64 start_time = 8;
+    int64 end_time = 9;
+
+    enum Status {
+        NOT_STARTED = 0;
+        STARTED = 1;
+        FINISHED = 2;
+    }
+    Status status = 10;
+}
+
+message Machine {
+    string id = 1;
+
+    //machine capabilities
+    int32 current_max_rpm = 2;
+    MachineType machine_type = 3;
+
+    int64 remaining_life = 4; //operational time
+
+    enum Status {
+        ONLINE = 0;
+        OFFLINE = 1;
+    }
+    Status status = 5;
+
+    //maintenance schedules
+    repeated MaintenanceSchedule maintenance_schedules = 6;
+}
+
+enum MachineType {
+    MILL3D = 0;
+    LATHE = 1;
+}
+
+message Tool {
+    string type = 1;
+    int32 quantity = 2;
+}
+
+message TravelTime {
+    string from_machine = 1;
+    string to_machine = 2;
+    int64 duration = 3;
+}
+
+message MaintenanceSchedule {
+    int64 start = 1;
+    int64 duration = 2;
+}
+
+message SchedulingWindow {
+    int64 start = 1;
+    int64 end = 2;
+    enum DayOfWeek {
+        SUN = 0;
+        MON = 1;
+        TUE = 2;
+        WED = 3;
+        THU = 4;
+        FRI = 5;
+        SAT = 6;
+    }
+    DayOfWeek day_of_week = 3;
+}
