@@ -1,3 +1,9 @@
+/*
+ *  Copyright (c) 2017, Palo Alto Research Center (PARC)
+ *  All rights reserved.
+ *  The software herein is provided with Government Purpose Rights.
+ */
+
 #pragma once
 
 namespace specops {
